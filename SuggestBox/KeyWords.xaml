@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="SuggestBox.KeyWords"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SuggestBox"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Loaded="KeyWords_OnLoaded">
+    <Grid>
+        <StackPanel Name="ParentPanel" Orientation="Horizontal" Height="30">
+            <TextBox Width="120" Height="25" Name="TxtKeywords" >
+                <TextBox.Resources>
+                    <Style TargetType="TextBox">
+                        <Style.Triggers>
+                            <Trigger Property="IsFocused" Value="true">
+                                <Setter Property="Panel.ZIndex" Value="2"></Setter>
+                            </Trigger>
+
+                        </Style.Triggers>
+                        <!--<EventSetter Event="PreviewMouseDown" Handler="PreviewMouseDown_OnHandler"></EventSetter>-->
+                        <!--<EventSetter Event="GotFocus" Handler="GotFocus_OnHandler"></EventSetter>-->
+                        <!--<EventSetter Event="LostFocus" Handler="LostFocus_OnHandler"></EventSetter>-->
+                    </Style>
+                </TextBox.Resources>
+            </TextBox>
+            <Popup PopupAnimation="Slide"  Placement="Bottom" x:Name="Popup"
+                   PlacementTarget="{Binding ElementName=TxtKeywords}" >
+                <Popup.Style>
+                    <Style TargetType="{x:Type Popup}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=TxtKeywords, Path=IsFocused}" Value="True">
+                                <Setter Property="IsOpen" Value="True" />
+                            </DataTrigger>
+                            <!--<DataTrigger Binding="{Binding ElementName=popupText, Path=IsFocused}" Value="True">
+                                <Setter Property="IsOpen" Value="True" />
+                            </DataTrigger>-->
+                        </Style.Triggers>
+                    </Style>
+                </Popup.Style>
+               
+                <Grid Name="ToolTipGrid" Width="120" MaxHeight="160">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="28" />
+                    </Grid.RowDefinitions>
+                    <Grid Row="0">
+                        <ListBox Name="SugList" Width="120" MaxHeight="160" SelectionChanged="SugList_OnSelectionChanged">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                            <TextBlock Text="{Binding SearchValue}"/>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                            <ListBox.ItemContainerStyle>
+                                <Style TargetType="ListBoxItem">
+                                    
+                                    <Style.Triggers>
+                                        <Trigger Property="IsSelected" Value="true">
+                                            <Setter Property="Background" Value="#dce6f7" />
+                                            <Setter Property="Foreground" Value="White" />
+                                        </Trigger>
+                                        <Trigger Property="IsMouseOver" Value="true">
+                                            <Setter Property="Background" Value="#edeeed" />
+                                            <Setter Property="Foreground" Value="DeepSkyBlue" />
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </ListBox.ItemContainerStyle>
+                        </ListBox>
+                    </Grid>
+                    <Grid Row="1" Background="White">
+                        <Button Width="50" Height="28" HorizontalAlignment="Right" Content="关闭"
+                                Click="ButtonBase_OnClick">
+                        </Button>
+                    </Grid>
+                </Grid>
+            </Popup>
+        </StackPanel>
+    </Grid>
+</UserControl>

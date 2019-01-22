@@ -1,0 +1,53 @@
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\bin\Debug\SuggestBox.exe.config
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\bin\Debug\SuggestBox.exe
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\bin\Debug\SuggestBox.pdb
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\MainWindow.g.cs
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\App.g.cs
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox_MarkupCompile.cache
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox_MarkupCompile.lref
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\MainWindow.baml
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox.g.resources
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox.Properties.Resources.resources
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox.csproj.GenerateResource.Cache
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox.exe
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox.pdb
+D:\FinDesign\1实施或者客户数据\Combobox\SuggestBox\SuggestBox\obj\Debug\SuggestBox.csprojResolveAssemblyReference.cache
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\bin\Debug\SuggestBox.exe.config
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox.exe
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox.pdb
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\bin\Debug\SuggestBox.exe
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\bin\Debug\SuggestBox.pdb
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox.csprojResolveAssemblyReference.cache
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\MainWindow.g.cs
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\App.g.cs
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox_MarkupCompile.cache
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox_MarkupCompile.lref
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\MainWindow.baml
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox.g.resources
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox.Properties.Resources.resources
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SuggestBox.csproj.GenerateResource.Cache
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SearchVisual.g.cs
+C:\Users\FinChinaSoft\Documents\QQEIM Files\3002636851\FileRecv\SuggestBox\SuggestBox\obj\Debug\SearchVisual.baml
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\bin\Debug\SuggestBox.exe.config
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox.exe
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox.pdb
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\bin\Debug\SuggestBox.exe
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\bin\Debug\SuggestBox.pdb
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox.csprojResolveAssemblyReference.cache
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\MainWindow.g.cs
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SearchVisual.g.cs
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\App.g.cs
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox_MarkupCompile.cache
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox_MarkupCompile.lref
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\MainWindow.baml
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SearchVisual.baml
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox.g.resources
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox.Properties.Resources.resources
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\SuggestBox.csproj.GenerateResource.Cache
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\KeyWords.g.cs
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\KeyWords.baml
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\NumericKeyboard.g.cs
+D:\FinDesign\1实施或者客户数据\SuggestBox-923\SuggestBox\SuggestBox\obj\Debug\NumericKeyboard.baml
